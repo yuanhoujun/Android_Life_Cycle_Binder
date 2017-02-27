@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Life_Cycle_Binder.iml" filepath="$PROJECT_DIR$/Android_Life_Cycle_Binder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeCycleBinder/LifeCycleBinder.iml" filepath="$PROJECT_DIR$/LifeCycleBinder/LifeCycleBinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
