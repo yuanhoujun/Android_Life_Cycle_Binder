@@ -19,7 +19,7 @@ allprojects {
 2）在你的app工程中，增加如下依赖:
 <pre>
 dependencies {
-
+     compile 'com.github.yuanhoujun:Android_life_cycle_binder:1.0.0'
 }
 </pre>
 
